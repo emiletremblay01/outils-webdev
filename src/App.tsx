@@ -31,7 +31,6 @@ export default function App() {
       <Grid name="unstyled components" items={unstlyedComponentsSites} />
       <Grid name="backend testing" items={backendTestingSites} />
       <Grid name="animation" items={animationSites} />
-      <MenuDropdown></MenuDropdown>
     </div>
   );
 }
